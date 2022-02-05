@@ -14,6 +14,7 @@ Overview
 
 Hostel management system will keep details of each and every student by suing their unique id which will be provided during the admission time. It will provide the expenditure details of mess department and able to keep track on the stock details of materials used under the mess departments. Admin can access information of each and every employee working under particular hostel number by using their unique number. The list of all working employees working under particular hostel will be displayed separately. Admin can add, delete, modify, and change information and other fields used in hostel management system. Admin can make changes in the mess charges, hostel charges, and other expenditures charges used within hostel campus.
 
-Hostel management system can be used to make query to find quick results. It can be used to find room number which is vacant. This system can also be used to find total number of rooms available under particular hostel number. This system will also display additional information, such as which hostel number will be available for boys and which hostel number will be available for girls. Another feature is that, we can assign particular hostel number based on the year of admission and course.
+Hostel management system can be used to make query to find quick results. It can be used to find room number which is vacant. This system can also be used to find total number of rooms available under particular hostel number. This system will also display additional information, such as which hostel number will be available for boys and which hostel number will be available for girls. 
+
 
 
